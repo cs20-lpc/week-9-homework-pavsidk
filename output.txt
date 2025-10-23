@@ -1,0 +1,203 @@
+----Ticket Counter----
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Queue is empty.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Queue is empty.
+Queue is empty.
+Queue is empty.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Queue is empty.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Queue is empty.
+Queue is empty.
+Queue is empty.
+Queue is empty.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Queue is empty.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Queue is empty.
+Queue is empty.
+
+----Bank Service Line----
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer has entered the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer was served and has left the queue.
+Customer has entered the queue.
+Customer has entered the queue.
